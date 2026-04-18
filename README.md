@@ -99,7 +99,3 @@ Nikita N. Patil
 
 ---
 
-## ⭐ Contribute
-Feel free to fork this repository and improve the chatbot by adding new features!
-
-# CodeAlpha_Basic_Chatbot
